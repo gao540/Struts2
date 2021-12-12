@@ -5,4 +5,16 @@
         "http://struts.apache.org/dtds/struts-2.0.dtd">
 
 <struts>
+    <package name="loginDiv" extends="struts-default">
+        <action name="login" class="JavaBeans.LoginAction">
+            <result name="LoginFail">/LoginFail.jsp</result>
+            <result name="LoginSuccess">/LoginSuccess.jsp</result>
+        </action>
+    </package>
+    <package name="RegisterDiv" extends="struts-default">
+        <action name="Register" class="JavaBeans.RegisterAction">
+            <result name="RegisterFail">/RegisterFail.jsp</result>
+            <result name="RegisterSuccess">/RegisterSuccess.jsp</result>
+        </action>
+    </package>
 </struts>

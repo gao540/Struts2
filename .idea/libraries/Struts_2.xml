@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Struts 2" type="struts2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/Drivers/struts-2.3.31/lib/commons-fileupload-1.3.2.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Drivers/struts-2.3.31/lib/commons-io-2.2.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Drivers/struts-2.3.31/lib/commons-lang3-3.2.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Drivers/struts-2.3.31/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Drivers/struts-2.3.31/lib/freemarker-2.3.22.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Drivers/struts-2.3.31/lib/javassist-3.11.0.GA.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Drivers/struts-2.3.31/lib/ognl-3.0.19.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Drivers/struts-2.3.31/lib/struts2-core-2.3.31.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Drivers/struts-2.3.31/lib/xwork-core-2.3.31.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
